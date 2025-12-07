@@ -91,7 +91,7 @@ local SkidFling = function(TargetPlayer)
         end
 
         local SFBasePart = function(BasePart)
-            local TimeToWait = 2
+            local TimeToWait = 4
             local Time = tick()
             local Angle = 0
             repeat
